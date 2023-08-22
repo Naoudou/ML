@@ -1,0 +1,11 @@
+Empno,Name,Age,City,Salary,month,Year
+201,mithra,25,chennai,50000,April,2002
+202,roche,21,trichy,60000,February,2004
+203,mary,50,madurai,30000,September,2010
+204,doss,55,trichy,20000,January,2005
+205,preethi,65,chennai,NaN,April,2002
+206,akash,55,trichy,30000,November,2011
+207,donald,NaN,chennai,40000,February,2002
+208,sam,35,madurai,NaN,September,2002
+209,nancy,NaN,trichy,60000,April,2016
+210,alan,20,chennai,20000,January,2014

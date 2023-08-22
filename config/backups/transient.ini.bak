@@ -1,0 +1,112 @@
+[main]
+completion/size = (300, 180)
+window/position = (-13, -13)
+window/prefs_dialog_size = (1050, 530)
+window/size = (3840, 2019)
+version = 70.1.0
+current_version = 5.1.5
+spyder_pythonpath = []
+historylog_filename = C:\Users\janas\.spyder-py3\history.log
+window/state = 000000ff00000002fd000000010000000000000f0000000748fc0100000004fb0000003000500072006f006a006500630074004500780070006c006f007200650072005700690064006700650074005f00640077000000000000000001000000c800fffffffb000000120045006400690074006f0072005f0064007701000000000000077e000001c400fffffffb00000030004f00750074006c0069006e0065004500780070006c006f007200650072005700690064006700650074005f00640077000000000000000001000000ca00fffffffc000007850000077b000001df00fffffffc0200000002fc000000760000039a000000ad01000021fa000000020200000009fb0000001a00480065006c0070005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb00000032005600610072006900610062006c0065004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000008b00fffffffb0000001c0050006c006f00740073005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb0000001e005000790064006f006300420072006f0077007300650072005f006400770000000000ffffffff0000004200fffffffb00000022004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb0000002800460069006e00640049006e00460069006c00650073005700690064006700650074005f006400770000000000ffffffff000000b200fffffffb0000001e00500079006c0069006e0074005700690064006700650074005f006400770000000000ffffffff000000c800fffffffb0000002200500072006f00660069006c00650072005700690064006700650074005f006400770000000000ffffffff000000c800fffffffb000000260042007200650061006b0070006f0069006e0074005700690064006700650074005f006400770000000000ffffffff0000008a00fffffffc00000417000003a7000000b201000021fa000000000200000003fb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff0000009000fffffffb000000200048006900730074006f00720079005700690064006700650074005f006400770100000000ffffffff0000009000fffffffb000000200043006f006e0073006f006c0065005700690064006700650074005f006400770000000000ffffffff0000008a00ffffff000000000000074800000004000000040000000800000008fc0000000100000002000000050000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff00000000000000000000001600720075006e005f0074006f006f006c006200610072010000014cffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c0062006100720100000298ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c006200610072010000048affffffff0000000000000000000000320077006f0072006b0069006e0067005f006400690072006500630074006f00720079005f0074006f006f006c0062006100720100000583ffffffff0000000000000000
+
+[toolbar]
+last_visible_toolbars = []
+
+[main_interpreter]
+custom_interpreters_list = []
+custom_interpreter = 
+
+[onlinehelp]
+zoom_factor = 0.8
+
+[project_explorer]
+max_recent_projects = 10
+recent_projects = []
+current_project_path = None
+scrollbar_position = (0, 0)
+expanded_state = None
+
+[quick_layouts]
+place_holder = 
+names = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+order = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+active = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+ui_names = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+layout_0/size = (1260, 2375)
+layout_0/prefs_dialog_size = (1050, 530)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = True
+layout_1/size = (1260, 2375)
+layout_1/prefs_dialog_size = (1050, 530)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = True
+layout_2/size = (1260, 2375)
+layout_2/prefs_dialog_size = (1050, 530)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = True
+layout_3/size = (1260, 2375)
+layout_3/prefs_dialog_size = (1050, 530)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = True
+layout_4/size = (1260, 2375)
+layout_4/prefs_dialog_size = (1050, 530)
+layout_4/is_maximized = True
+layout_4/is_fullscreen = False
+layout_4/position = (10, 10)
+layout_4/state = None
+layout_4/statusbar = True
+layout_default/size = (1260, 2375)
+layout_default/prefs_dialog_size = (1050, 530)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = True
+layout_current_temp/size = (3840, 2019)
+layout_current_temp/prefs_dialog_size = (1050, 530)
+layout_current_temp/is_maximized = True
+layout_current_temp/is_fullscreen = False
+layout_current_temp/position = (-13, -13)
+layout_current_temp/state = 000000ff00000002fd000000010000000000000f0000000748fc0100000004fb0000003000500072006f006a006500630074004500780070006c006f007200650072005700690064006700650074005f00640077000000000000000001000000c800fffffffb000000120045006400690074006f0072005f0064007701000000000000077e0000017f00fffffffb00000030004f00750074006c0069006e0065004500780070006c006f007200650072005700690064006700650074005f00640077000000000000000001000000ca00fffffffc000007850000077b000001df00fffffffc0200000002fc00000076000003a2000000ad01000021fa000000000200000009fb0000001a00480065006c0070005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb00000032005600610072006900610062006c0065004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000008b00fffffffb0000001c0050006c006f00740073005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb0000001e005000790064006f006300420072006f0077007300650072005f006400770000000000ffffffff0000004200fffffffb00000022004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000008a00fffffffb0000002800460069006e00640049006e00460069006c00650073005700690064006700650074005f006400770000000000ffffffff000000b200fffffffb0000001e00500079006c0069006e0074005700690064006700650074005f006400770000000000ffffffff000000c800fffffffb000000260042007200650061006b0070006f0069006e0074005700690064006700650074005f006400770000000000ffffffff0000008a00fffffffb0000002200500072006f00660069006c00650072005700690064006700650074005f006400770000000000ffffffff000000c800fffffffc0000041f0000039f000000b201000021fa000000000200000003fb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff0000009000fffffffb000000200048006900730074006f00720079005700690064006700650074005f006400770100000000ffffffff0000009000fffffffb000000200043006f006e0073006f006c0065005700690064006700650074005f006400770000000000ffffffff0000008a00ffffff000000000000074800000004000000040000000800000008fc0000000100000002000000050000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff00000000000000000000001600720075006e005f0074006f006f006c006200610072010000014cffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c0062006100720100000298ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c006200610072010000048affffffff0000000000000000000000320077006f0072006b0069006e0067005f006400690072006500630074006f00720079005f0074006f006f006c0062006100720100000583ffffffff0000000000000000
+layout_current_temp/statusbar = True
+
+[pylint]
+history_filenames = []
+
+[find_in_files]
+exclude_index = 0
+search_in_index = 0
+
+[workingdir]
+console/fixed_directory = 
+
+[editor]
+splitter_state = 000000ff0000000100000001000006bd01ffffffff010000000100
+recent_files = ['C:\\Users\\janas\\.spyder-py3\\untitled7.py', 'C:\\Users\\janas\\.spyder-py3\\untitled6.py', 'C:\\Users\\janas\\.spyder-py3\\untitled5.py', 'C:\\Users\\janas\\.spyder-py3\\untitled4.py', 'C:\\Users\\janas\\.spyder-py3\\Tree.py', 'C:\\Users\\janas\\.spyder-py3\\template.py', 'C:\\Users\\janas\\.spyder-py3\\SVM.py', 'C:\\Users\\janas\\.spyder-py3\\AgglomerativeClustering.py', 'C:\\Users\\janas\\.spyder-py3\\Curve.py', 'C:\\Users\\janas\\.spyder-py3\\KMean.py', 'C:\\Users\\janas\\.spyder-py3\\KNN.py', 'C:\\Users\\janas\\.spyder-py3\\KNN_Optimal_k.py', 'C:\\Users\\janas\\.spyder-py3\\LogisticRegression.py', 'C:\\Users\\janas\\.spyder-py3\\MultipleLinearRegression.py', 'C:\\Users\\janas\\.spyder-py3\\PCA.py', 'C:\\Users\\janas\\.spyder-py3\\roc_auc.py', 'C:\\Users\\janas\\.spyder-py3\\ROC_CURVE.py', 'C:\\Users\\janas\\.spyder-py3\\DS_Dataset\\sales.csv', 'C:\\Users\\janas\\.spyder-py3\\DS_Dataset\\kyphosis.csv', 'C:\\Users\\janas\\.spyder-py3\\history_internal.py']
+filenames = ['C:\\Users\\janas\\.spyder-py3\\AgglomerativeClustering.py', 'C:\\Users\\janas\\.spyder-py3\\Curve.py', 'C:\\Users\\janas\\.spyder-py3\\KMean.py', 'C:\\Users\\janas\\.spyder-py3\\KNN.py', 'C:\\Users\\janas\\.spyder-py3\\KNN_Optimal_k.py', 'C:\\Users\\janas\\.spyder-py3\\LogisticRegression.py', 'C:\\Users\\janas\\.spyder-py3\\MultipleLinearRegression.py', 'C:\\Users\\janas\\.spyder-py3\\PCA.py', 'C:\\Users\\janas\\.spyder-py3\\roc_auc.py', 'C:\\Users\\janas\\.spyder-py3\\ROC_CURVE.py', 'C:\\Users\\janas\\.spyder-py3\\SVM.py', 'C:\\Users\\janas\\.spyder-py3\\template.py', 'C:\\Users\\janas\\.spyder-py3\\Tree.py', 'C:\\Users\\janas\\.spyder-py3\\untitled4.py', 'C:\\Users\\janas\\.spyder-py3\\untitled5.py', 'C:\\Users\\janas\\.spyder-py3\\untitled6.py', 'C:\\Users\\janas\\.spyder-py3\\untitled7.py']
+bookmarks = {}
+layout_settings = {'hexstate': '000000ff00000001000000010000077e00ffffffff010000000100', 'sizes': [1918], 'splitsettings': [(False, 'C:\\Users\\janas\\.spyder-py3\\KNN_Optimal_k.py', [20, 12, 26, 18, 39, 8, 39, 15, 7, 8, 72, 1, 21, 1, 1, 1, 1])]}
+
+[outline_explorer]
+scrollbar_position = None
+
+[run]
+breakpoints = {}
+configurations = [('C:\\Users\\janas\\.spyder-py3\\temp.py', {'args/enabled': False, 'args': '', 'workdir/enabled': None, 'workdir': None, 'current': True, 'systerm': False, 'interact': False, 'post_mortem': False, 'python_args/enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False, 'file_dir': True, 'cw_dir': False, 'fixed_dir': False, 'dir': ''})]
+defaultconfiguration = {}
+
+[explorer]
+file_associations = {}
+
